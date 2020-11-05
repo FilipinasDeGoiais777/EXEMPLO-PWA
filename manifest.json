@@ -4,17 +4,17 @@
     "start_url": "index.html",
     "icons": [{
             "src": "img/mapa.svg",
-            "sizes": "32x32",
+            "sizes": "150x150",
             "type": "image/svg"
         },
         {
             "src": "img/gps.svg",
-            "sizes": "64x64",
+            "sizes": "150x150",
             "type": "image/svg"
         },
         {
             "src": "img/localizacao-do-mapa.svg",
-            "sizes": "128x128",
+            "sizes": "150x150",
             "type": "image/svg"
         },
         {
