@@ -1,0 +1,35 @@
+{
+    "name": "Buscador de Código Postal",
+    "short_name": "Busca CEP",
+    "start_url": "index.html",
+    "icons": [{
+            "src": "img/mapa.svg",
+            "sizes": "32x32",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/gps.svg",
+            "sizes": "64x64",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/localizacao-do-mapa.svg",
+            "sizes": "128x128",
+            "type": "image/svg"
+        },
+        {
+            "src": "img/lugar-colocar.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/marca.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme-color": "#le90ff",
+    "background-color": "#fff",
+    "display": "fullscreen",
+    "orientation": "any"
+}
